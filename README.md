@@ -2,7 +2,7 @@
 
 Download the code and Oepn in the VS code.
 
-Run on Live-Server
+Run on Live-Server.
 
 Output Image:
 
