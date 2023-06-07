@@ -1,6 +1,6 @@
 # RGB Loading-Effect
 
-Download the code and Run on Live-Server
+Download the code and Oepn in the VS code Run on Live-Server
 
 Output Image:
 
